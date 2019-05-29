@@ -1,2 +1,2 @@
 # hello-conestoga
-just a repository
+just a repository and fun is about to begin
